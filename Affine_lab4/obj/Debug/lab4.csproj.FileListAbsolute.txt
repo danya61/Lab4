@@ -1,0 +1,8 @@
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\bin\Debug\Affine 4.exe.config
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\bin\Debug\Affine 4.exe
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\bin\Debug\Affine 4.pdb
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\obj\Debug\Affine_4.Properties.Resources.resources
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\obj\Debug\Affine 4.exe
+C:\Users\Mamikon\Dropbox\mmcs\7-й семестр\Компьютерная графика (Лошкарев)\Лаба 4\Affine-master\Affine-master\Affine_lab4\obj\Debug\Affine 4.pdb
